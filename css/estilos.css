@@ -13,15 +13,22 @@ body{
     justify-content: center;
     align-items: center;
     height: 500px;
-    
-    border: 1px forestgreen;
+}
+
+#cabecera{
+    background-color: #33A;
+    color: white;
+    padding: 0.5em;
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 1);
 }
 
 #hero{
     display: inherit;
-    border: 1px forestgreen;
+    border: 1px;
     height: 70%;
-    width: 40%;
+    width: 400px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
