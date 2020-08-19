@@ -3,7 +3,7 @@
 }
 
 body{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: wheat;
 }
 
@@ -13,12 +13,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 500px;
-    
     border: 1px forestgreen;
 }
 
 #hero{
-    display: inherit;
+    display: block;
     border: 1px forestgreen;
     height: 70%;
     width: 40%;
