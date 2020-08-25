@@ -13,14 +13,6 @@ body{
     justify-content: center;
     align-items: center;
     height: 500px;
-<<<<<<< HEAD
-    border: 1px forestgreen;
-}
-
-#hero{
-    display: block;
-    border: 1px forestgreen;
-=======
 }
 
 #cabecera{
@@ -35,7 +27,6 @@ body{
 #hero{
     display: inherit;
     border: 1px;
->>>>>>> cabecera
     height: 70%;
     width: 400px;
     border-radius: 10px;
